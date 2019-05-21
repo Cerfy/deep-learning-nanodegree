@@ -7,3 +7,8 @@ project-dog-classification/lfw
 project-dog-classification/lfw.tgz
 project-dog-classification/ownDog
 project-dog-classification/ownSelfies
+
+project-tv-script-generation/.ipynb_checkpoints
+project-tv-script-generation/__pycache__
+project-tv-script-generation/data
+project-tv-script-generation/trained_rnn.pt
