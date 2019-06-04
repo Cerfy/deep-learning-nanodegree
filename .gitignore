@@ -17,7 +17,7 @@ project-tv-script-generation/trained_rnn.pt
 project-face-generation/.ipynb_checkpoints
 project-face-generation/__pycache__
 project-face-generation/processed-celeba-small.zip
-project-face-generation/processed-celeba-small/
+project-face-generation/processed_celeba_small/
 project-face-generation/assets
 project-face-generation/train_samples.pkl
 project-face-generation/__MACOSX
